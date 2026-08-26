@@ -220,7 +220,7 @@ open web/index.html
 Artificial intelligence intern
 
 [![GitHub](https://github.com/Abdulrafay662/)
-[![LinkedIn](https://www.linkedin.com/in/abdul-rafay-276408257/)
+[![LinkedIn](https://www.linkedin.com/in/abdul-rafay-276408257)
 
 ## 📄 License
 
