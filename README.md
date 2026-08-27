@@ -42,7 +42,7 @@ honestly — the foundation every larger ML project is built on.
 
 ## 🌐 Live Demo
 
-Open [`web/index.html`](web/index.html) directly in any browser — no server,
+Open [`index.html`](index.html) directly in any browser — no server,
 no build step. It's a self-contained page that presents the whole project
 visually: the pipeline, the evaluation results, and a **live interactive
 classifier** where you can drag sliders to describe a flower's measurements
